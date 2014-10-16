@@ -3,4 +3,4 @@ newgit
 
 first repository git
 
-print ("Better");
+New but FAST.
