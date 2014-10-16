@@ -1,0 +1,4 @@
+newgit
+======
+
+first repository git
