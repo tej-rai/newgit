@@ -1,4 +1,0 @@
-newgit
-======
-
-NEW but FAST.
